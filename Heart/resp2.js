@@ -39,7 +39,7 @@ async function sendMessage() {
     const requestData = { query: userInput };
 
     try {
-        const response = await fetch("https://eca2-152-58-29-211.ngrok-free.app/chat", {
+        const response = await fetch("###Upload You're API KEY###", {
             method: "POST",
             headers: {
                 "Content-Type": "application/json",
