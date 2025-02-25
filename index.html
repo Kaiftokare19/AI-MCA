@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mr.Doctor Chatbot</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <!-- HEADER -->
+  <header>
+    <div class="header-left">
+      <h1>
+        <a href="selectPage.html" style="text-decoration: none; color: inherit;">
+          Mr.Doctor
+        </a>
+      </h1>
+    </div>
+    <div class="header-right">
+      <div class="coffee-code-bubble">
+        CoffeeCode
+      </div>
+      <!-- Sun/Moon Button (starts as Sun) -->
+      <button id="themeToggle" class="emoji-toggle">☀️</button>
+    </div>
+  </header>
+
+
+  <!-- MAIN -->
+  <main>
+    <!-- Background image (if you still want it visible) -->
+    <img src="bg-image.png" alt="Background Image" class="caduceus-image glow-img" />
+    <div id="chat-response"></div>
+  </main>
+
+  <!-- FOOTER (Chat bar) -->
+  <footer>
+    <div class="chat-bar">
+      <input id="user-input" type="text" placeholder="Ask me anything about Health related queries..." />
+      <button onclick="sendMessage()">Submit</button>
+    </div>
+    <div id="chat-response"></div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

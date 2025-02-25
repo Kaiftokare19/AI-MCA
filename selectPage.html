@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>Select for Consultation</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <!-- Top Navigation / Header -->
+  <header>
+    <nav class="navbar">
+      <div class="nav-left">
+        <p>Pages / Mr.Doctor's</p>
+        <h1>Mr.Doctor</h1>
+      </div>
+    </nav>
+  </header>
+
+  <!-- 3D Rotating Cube in the Background -->
+  <div class="threeDanimations">
+    <div class="scene">
+      <div class="cube">
+        <div class="face front">Diagnosis</div>
+        <div class="face back">Consultation</div>
+        <div class="face right">Symptom-checker</div>
+        <div class="face left">Telemedicine</div>
+        <div class="face top">Wellness</div>
+        <div class="face bottom">Treatment</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Translucent Modal with Three Cards -->
+  <div class="modal-container">
+    <div class="card" onclick="redirectToPage('Heart/heart.html')">
+      <h2>Heart Doctor</h2>
+      <p>Ask anything about Heart related disease</p>
+    </div>
+    <div class="card" onclick="redirectToPage('Brain/brain.html')">
+      <h2>Brain Doctor</h2>
+      <p>Ask anything about Brain related disease</p>
+    </div>
+    <div class="card" onclick="redirectToPage('Skin/skin.html')">
+      <h2>Skin Doctor</h2>
+      <p>Ask anything about Skin related disease</p>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
