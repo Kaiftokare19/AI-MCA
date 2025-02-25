@@ -6,7 +6,7 @@ Mr.Doctor is an AI-powered medical chatbot specializing in cardiology, neurology
 ## 📷 Project Screenshot
 ![Project Image](Dark.png)
 ![Project Image](Bright.png)
-![Project Image](Select.png)
+![Project Image](SelectPage.png)
 
 ## 🔗 Access Mr.Doctor
 [Click here to use Mr.Doctor](https://kaiftokare19.github.io/AI-MCA/)
