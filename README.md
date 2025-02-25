@@ -65,7 +65,7 @@ npm run dev
 4. Works on both PC and mobile devices.
 
 ## 🤝 Contributors
-- **Your Team Name**
+- **CoffeeCode**
 - Developed for **Err404 6.0 Hackathon**
 
 ## 📜 License
