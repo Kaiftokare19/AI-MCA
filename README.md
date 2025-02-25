@@ -4,7 +4,9 @@
 Mr.Doctor is an AI-powered medical chatbot specializing in cardiology, neurology, and dermatology. It utilizes **LLaMA 2**, a Large Language Model (LLM) by Meta, fine-tuned on medical healthcare data sourced from Kaggle. This project was developed for **Err404 6.0**, a Hackathon organized by the **Programmer's Club, M.H. Saboo Siddik College Of Engineering** on **15th Feb 2025**.
 
 ## 📷 Project Screenshot
-![Project Image](path/to/your/image.png)
+![Project Image](Dark.png)
+![Project Image](Bright.png)
+![Project Image](Select.png)
 
 ## 🔗 Access Mr.Doctor
 [Click here to use Mr.Doctor](https://kaiftokare19.github.io/AI-MCA/)
