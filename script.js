@@ -38,7 +38,7 @@ async function sendMessage() {
     const requestData = { question: userInput };
 
     try {
-        const response = await fetch("###You're API KEY###", {
+        const response = await fetch("https://doomslayer1434-MediBot.hf.space/chat", {
             method: "POST",
             headers: {
                 "Content-Type": "application/json",
