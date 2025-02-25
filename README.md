@@ -36,9 +36,6 @@ Mr.Doctor is an AI-powered medical chatbot specializing in cardiology, neurology
 - **CoffeeCode**
 - Developed for **Err404 6.0 Hackathon**
 
-## 📜 License
-MIT License
-
 ---
 
 **⚠️ Note**: Mr.Doctor is an experimental project and should not be used as a substitute for professional medical advice.
