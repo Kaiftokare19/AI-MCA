@@ -38,7 +38,7 @@ async function sendMessage() {
     const requestData = { question: userInput };
 
     try {
-        const response = await fetch("https://20de-2409-40c2-401c-a585-74dd-fb9a-28ee-90d0.ngrok-free.app/chat", {
+        const response = await fetch("###You're API KEY###", {
             method: "POST",
             headers: {
                 "Content-Type": "application/json",
